@@ -1,4 +1,4 @@
-import so
+import socket
 
 target_host = "www.google.com"
 target_port = 80
