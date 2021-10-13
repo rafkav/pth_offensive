@@ -1,6 +1,6 @@
 import socket
 import threading
-
+import sys
 
 # this is a pretty hex dumping function directly taken from
 # http://code.activestate.com/recipes/142812-hex-dumper/
